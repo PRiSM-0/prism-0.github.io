@@ -1,11 +1,12 @@
 ---
 layout: default
-title: DCA in MI Workshop
+title: PRiSM 2026 Updates
 description: News
 filename: news
 ---
 
-# [01/16/2024]
-* * *
-Call for Paper is up now! [Call for Paper Link](./call_for_paper.html).
+# [04/03/2026]
+Website structure for PRiSM 2026 is now online.
 
+# [04/03/2026]
+The [Call for Papers](./call_for_paper.html) and preliminary [Programme](./program.html) pages are available.

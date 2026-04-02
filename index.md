@@ -1,30 +1,49 @@
 ---
 layout: default
-title: Data Curation and Augmentation in Medical Imaging
-description: DCA in MI Workshop @ CVPR 2024
+title: Home
+description: PRiSM 2026 Workshop
 filename: index
 ---
 
-<!-- [Important Dates](./important_dates.html)
+# Advancing mixed reality for surgical and medical interventions
 
-[Call for Paper](./call_for_paper.html)
+From planning and intraoperative guidance to clinical training, deployment, and translation.
 
-[People](./people.html)
+PRiSM is a dedicated MICCAI 2026 workshop focused on mixed reality (MR) for surgical and medical interventions. The workshop will bring together researchers, clinicians, and industry partners to discuss recent advances in augmented reality, virtual reality, image-guided intervention, surgical navigation, clinical training, and translational deployment. A particular emphasis will be placed on hands-on demonstrations, end-to-end workflows, and clinically meaningful adoption.
 
-[Program](./program.html) -->
+## Why PRiSM?
 
+- Dedicated focus on mixed-reality-centric workflows
+- Strong emphasis on clinical translation and deployment
+- Hands-on demo experiences with MR systems
+- Cross-disciplinary participation from academia, clinics, and industry
 
-Medical imaging is a key component of modern healthcare, facilitating a wide array of diagnostic and therapeutic applications. Data-driven computer vision and  AI solutions for medical imaging thereby represent a great potential to make a real-life impact by improving patient care.
+## Topics of Interest
 
-However, safety requirements associated with healthcare pose major challenges for this research field, especially regarding data curation. Collection and annotation of medical data is often resource-intensive due to the need for medical expertise. At the same time, data quality is of the highest importance to ensure safe and fair usage in clinical settings. As a result, efficient data curation and validation as well as learning from small data are important areas of research. Synthetic data generation and augmentation are further promising directions, which themselves, however, pose challenges regarding quality, bias, and utility.
+Topics of interest include, but are not limited to:
 
-In addressing these demands, data engineering emerges as a crucial driver in advancing medical imaging research into deployment. Nevertheless, it is challenging to fulfill all the needs of task-specific applications via traditional methods. To bridge the gap, this workshop aims to encourage the discussion on topics related to push forward the frontier of data curation and augmentation for medical applications to tackle the challenges of limited or imperfect data in the real-world medical application.
+- Augmented and virtual reality in surgery and medicine
+- Interventional oncology and image-guided intervention
+- Multimodal fusion and registration
+- Landmark and tumor segmentation
+- Tracking and surgical scene interaction
+- Clinical skills training and simulation
+- Remote care, telepresence, and digital twins
+- MR for liver, kidney, prostate, thoracic, orthopedic, dental, and head and neck applications
 
-We are excited to provide an interactive workshop platform to host topics related to medical imaging and medical computer vision, which include but are not limited to:
+## Important Dates
 
-- Data selection and curation
-- Data synthesis and augmentation
-- Learning with data scarcity
-- Data verification and quality assessment
-- Effects of Data Domain Representation on Clinical Outputs
-- From Data to Results: Learning from Success
+- Workshop website launch: April 1-10, 2026
+- Paper submission deadline: July 1, 2026
+- Notification of paper decisions: July 31, 2026
+- Proceedings materials due: September 3, 2026
+- MICCAI 2026 workshop dates: October 4 or 8, 2026
+- Venue: Abu Dhabi, UAE
+
+## Explore
+
+- [Call for Papers](./call_for_paper.html)
+- [Programme](./program.html)
+- [Organizers](./people.html)
+- [Sponsors and Contact](./sponsors_contact.html)
+- [Gallery](./gallery.html)

@@ -25,24 +25,22 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-        <p style="display:inline-block;">
-            <img class="logo" src="assets/img/workshop_logo.png" alt="workshop_logo.js logo" width="200" height="89" />
-            <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-        </p>
-
-      <!-- <img class="logo" src="assets/img/workshop_logo.png" alt="workshop_logo.js logo" width="200" height="89" />
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1> -->
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      {% if site.logo %}
+        <img class="logo" src="{{ site.logo | relative_url }}" alt="PRiSM workshop logo" width="200" height="89" />
+      {% endif %}
+      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ site.full_title | default: site.description | default: site.github.project_tagline }}</h2>
+      <h2 class="project-tagline">{{ site.subtitle }}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
       {% if true %}
-        <a href="https://dca-in-mi.github.io" class="btn">Home</a>
-        <a href="https://dca-in-mi.github.io/call_for_paper.html" class="btn">Call for Paper</a>
-        <a href="https://dca-in-mi.github.io/important_dates.html" class="btn">Important Dates</a>
-        <a href="https://dca-in-mi.github.io/program.html" class="btn">Program</a>
-        <a href="https://dca-in-mi.github.io/people.html" class="btn">Committee</a>
-        <a href="https://dca-in-mi.github.io/news.html" class="btn">News</a>
+        <a href="{{ '/' | relative_url }}" class="btn">Home</a>
+        <a href="{{ '/call_for_paper.html' | relative_url }}" class="btn">Call for Papers</a>
+        <a href="{{ '/program.html' | relative_url }}" class="btn">Programme</a>
+        <a href="{{ '/people.html' | relative_url }}" class="btn">Organizers</a>
+        <a href="{{ '/sponsors_contact.html' | relative_url }}" class="btn">Sponsors &amp; Contact</a>
+        <a href="{{ '/gallery.html' | relative_url }}" class="btn">Gallery</a>
       {% endif %}
       <!-- {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>

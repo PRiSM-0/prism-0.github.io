@@ -1,3 +1,3 @@
-The homepage of the CVPR 2024 workshop on Data Curation and Augmentation in Medical Imaging (DCA in MI).
+Website source for the MICCAI 2026 workshop:
 
-https://dca-in-mi.github.io
+PRiSM 2026 - Precise Mixed Reality for Surgical and Medical Interventions.

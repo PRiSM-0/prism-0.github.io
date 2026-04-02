@@ -1,18 +1,18 @@
-title: Data Augmentation and Curation in Medical Imaging Workshop
+title: PRiSM 2026
+full_title: Precise Mixed Reality for Surgical and Medical Interventions (PRiSM)
+subtitle: MICCAI 2026 Workshop
+description: Advancing mixed reality for surgical and medical interventions
+logo: /assets/img/workshop_logo.png
 remote_theme: Bilal2453/cayman-docs
 
 # Layout
-show_social: true
+show_social: false
 show_excerpts: false
-show_sidebar: true
-
-# Menu
-navigation:
-  name_over_title: false
+show_sidebar: false
 
 navigation:
   name_over_title: false
-  toc_parameter: [all toc module parameters can be optionally passed over here]
+  toc_parameter: []
 
 # # Menu
 # navigation:
