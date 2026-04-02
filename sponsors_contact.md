@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sponsors and Contact
+title: Sponsors & Contact
 description: PRiSM 2026 Workshop
 filename: sponsors_contact
 ---
@@ -16,8 +16,8 @@ We welcome sponsorship and industry engagement for PRiSM 2026. The workshop offe
 
 ## Contact
 
-- For sponsorship and partnership inquiries, please contact the organizing team via the profile links on the [Organizers page](./people.html).
-- A dedicated workshop contact mailbox will be announced soon.
+- Email: [Prism.miccai2026@gmail.com](mailto:Prism.miccai2026@gmail.com)
+- For sponsorship and partnership inquiries, please include "PRiSM 2026 Sponsorship" in the email subject.
 
 ## Venue
 
