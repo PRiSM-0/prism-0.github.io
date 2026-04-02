@@ -7,20 +7,22 @@ filename: call_for_paper
 
 ## Call for Papers
 
-We invite submissions on mixed reality technologies for surgical and medical interventions, with a focus on clinically relevant workflows spanning preoperative planning, intraoperative guidance, visualization, interaction, training, and translational deployment.
+We invite submissions on computer-assisted interventions (CAI) for surgical and medical procedures, including mixed-reality-enabled methods and broader intervention-centric medical imaging advances. We particularly encourage work with clinically relevant workflows spanning preoperative planning, intraoperative guidance, visualization, interaction, training, and translational deployment.
 
 ## Topics of Interest
 
 Topics of interest include, but are not limited to:
 
-- Augmented and virtual reality in surgery and medicine
+- Mixed-reality-enabled intervention and procedural visualization
 - Interventional oncology and image-guided intervention
-- Multimodal fusion and registration
-- Landmark and tumor segmentation
-- Tracking and surgical scene interaction
-- Clinical skills training and simulation
-- Remote care, telepresence, and digital twins
-- MR for liver, kidney, prostate, thoracic, orthopedic, dental, and head and neck applications
+- Multimodal fusion, registration, and calibration
+- Segmentation, tracking, and scene understanding for CAI
+- Surgical navigation, tool-tissue interaction, and workflow intelligence
+- Clinical skills training, simulation, and evaluation
+- Remote care, telepresence, digital twins, and integrated CAI platforms
+- CAI applications across abdominal, thoracic, orthopedic, dental, neuro, and other procedural domains
+
+In addition to mixed-reality topics, we explicitly welcome medical imaging and intervention papers with clear CAI relevance and clinical translation potential.
 
 ## Submission Guidance
 

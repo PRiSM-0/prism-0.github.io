@@ -13,7 +13,7 @@ This page will host PRiSM 2026 visual highlights and archived workshop materials
 
 - Photos from keynote talks, panel discussions, and demo sessions
 - Poster session snapshots
-- Highlights from hands-on MR demonstrations
+- Highlights from hands-on intervention technology demonstrations
 - Links to archived slides, posters, and selected recordings
 
 ## Coming Soon

@@ -9,27 +9,29 @@ filename: index
 
 From planning and intraoperative guidance to clinical training, deployment, and translation.
 
-PRiSM is a dedicated MICCAI 2026 workshop focused on mixed reality (MR) for surgical and medical interventions. The workshop will bring together researchers, clinicians, and industry partners to discuss recent advances in augmented reality, virtual reality, image-guided intervention, surgical navigation, clinical training, and translational deployment. A particular emphasis will be placed on hands-on demonstrations, end-to-end workflows, and clinically meaningful adoption.
+PRiSM is a dedicated MICCAI 2026 workshop focused on computer-assisted interventions (CAI), with a strong track on mixed-reality-enabled intervention and clinically grounded imaging-to-intervention workflows. The workshop brings together researchers, clinicians, and industry partners to discuss advances in image-guided intervention, navigation, visualization, interaction, training, and translational deployment.
 
 ## Why PRiSM?
 
-- Dedicated focus on mixed-reality-centric workflows
+- Dedicated focus on CAI workflows, including mixed-reality-enabled intervention
 - Strong emphasis on clinical translation and deployment
-- Hands-on demo experiences with MR systems
+- Hands-on demo experiences with intervention systems and translational prototypes
 - Cross-disciplinary participation from academia, clinics, and industry
 
 ## Topics of Interest
 
 Topics of interest include, but are not limited to:
 
-- Augmented and virtual reality in surgery and medicine
+- Mixed-reality-enabled intervention and procedural visualization
 - Interventional oncology and image-guided intervention
-- Multimodal fusion and registration
-- Landmark and tumor segmentation
-- Tracking and surgical scene interaction
-- Clinical skills training and simulation
-- Remote care, telepresence, and digital twins
-- MR for liver, kidney, prostate, thoracic, orthopedic, dental, and head and neck applications
+- Multimodal fusion, registration, and calibration
+- Segmentation, tracking, and scene understanding for CAI
+- Surgical navigation, tool-tissue interaction, and workflow intelligence
+- Clinical skills training, simulation, and evaluation
+- Remote care, telepresence, digital twins, and integrated CAI platforms
+- CAI applications across abdominal, thoracic, orthopedic, dental, neuro, and other procedural domains
+
+In addition to mixed-reality topics, we explicitly welcome medical imaging and intervention papers with clear CAI relevance and clinical translation value.
 
 ## Important Dates
 
@@ -44,6 +46,8 @@ Topics of interest include, but are not limited to:
 
 - [Call for Papers](./call_for_paper.html)
 - [Programme](./program.html)
+- [Accepted Papers](./accepted_papers.html)
+- [Awards](./awards.html)
 - [Organizers](./people.html)
 - [Sponsors and Contact](./sponsors_contact.html)
 - [Gallery](./gallery.html)

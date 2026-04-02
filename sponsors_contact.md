@@ -7,7 +7,7 @@ filename: sponsors_contact
 
 ## Sponsorship Invitation
 
-We welcome sponsorship and industry engagement for PRiSM 2026. The workshop offers a unique venue to connect with researchers, clinicians, and innovators working at the intersection of mixed reality, medical imaging, and intervention. Sponsorship can support demo activities, student visibility, workshop materials, and community engagement.
+We welcome sponsorship and industry engagement for PRiSM 2026. The workshop offers a unique venue to connect with researchers, clinicians, and innovators working across computer-assisted intervention, medical imaging, and translational procedural technologies. Sponsorship can support demo activities, student visibility, workshop materials, and community engagement.
 
 ## Current Outreach
 
