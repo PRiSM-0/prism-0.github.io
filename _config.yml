@@ -5,6 +5,8 @@ description: Advancing mixed reality for surgical and medical interventions
 logo: /assets/img/workshop_logo.png
 contact_email: Prism.miccai2026@gmail.com
 workshop_location: Abu Dhabi, UAE
+url: https://prism-0.github.io
+baseurl: ""
 remote_theme: Bilal2453/cayman-docs
 
 # Layout
@@ -25,8 +27,7 @@ navigation:
 # Build settings
 markdown: kramdown
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
-  - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-archives
   - jekyll-seo-tag

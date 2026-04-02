@@ -33,4 +33,8 @@ Submission format and platform details will be announced soon. We currently plan
 - Proceedings materials due: September 3, 2026
 - MICCAI 2026 workshop dates: October 4 or 8, 2026
 
+## Contact
+
+- Email: [Prism.miccai2026@gmail.com](mailto:Prism.miccai2026@gmail.com)
+
 For the latest updates, please check the [Home page](./index.html) and [Programme](./program.html).
